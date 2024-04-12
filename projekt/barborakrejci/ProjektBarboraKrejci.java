@@ -5,7 +5,7 @@
 package projekt.barborakrejci;
 
 /**
- * @author User
+ * @author Barbroa Krejci
  */
 import java.io.BufferedReader;
 import java.io.FileReader;
