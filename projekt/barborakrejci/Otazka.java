@@ -15,13 +15,6 @@ public class Otazka {
   List<String> Wodpovedi;
   String Rodpoved;
 
-  public Otazka(String text, int body, List<String> Wodpovedi, String Rodpoved) {
-    this.text = text;
-    this.body = body;
-    this.Wodpovedi = Wodpovedi;
-    this.Rodpoved = Rodpoved;
-  }
-
   public Otazka() {}
 
   public void Vypis() {
