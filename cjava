@@ -1,0 +1,2 @@
+javac projekt/barborakrejci/*.java
+java projekt.barborakrejci.ProjektBarboraKrejci
