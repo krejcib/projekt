@@ -1,0 +1,24 @@
+Otázka 1zN:Které plemeno koně koně je nejmenší?
+Hodnota:8
+Správně: shetland
+Špatně: hafling
+Špatně: hannover
+Špatně: oldenburg
+Otázka 1zN:Jak dlouho je březí klisna?
+Hodnota:6
+Špatně: deset měsíců
+Správně: jedenáct měsíců
+Špatně: jeden rok
+Špatně: rok a půl
+Otázka 1zN:Které plemeno je největší?
+Hodnota:5
+Špatně: fallabela
+Špatně: connemara
+Špatně: kwpn
+Správně: shire
+Otázka 1zN:Které plemeno je nejrychlejší?
+Hodnota:9
+Špatně: mustang
+Špatně: marwari
+Špatně: percheron
+Správně: A1/1
