@@ -7,7 +7,7 @@ package projekt.barborakrejci;
 import java.util.List;
 
 /**
- * @author User
+ * @author Barbora Krejci
  */
 public class Otazka {
   String text;
